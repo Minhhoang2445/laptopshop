@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LaptopshopApplication",
+            "request": "launch",
+            "mainClass": "com.example.laptopshop.web.LaptopshopApplication",
+            "projectName": "laptopshop"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-LaptopshopApplication<laptopshop>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
